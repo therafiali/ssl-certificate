@@ -129,3 +129,8 @@ curl -vI https://domain.com
 ```
 
 Remember to replace `domain.com` with your actual domain name in all commands. 
+
+
+For example:
+
+sudo certbot renew --cert-name rafi.com
